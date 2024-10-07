@@ -1,1 +1,1 @@
-# Personal-Dictionary
+# PersonalDictionary
